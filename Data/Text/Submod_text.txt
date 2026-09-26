@@ -1820,3 +1820,12 @@ Z_TEXT_UNIT_GORATH_RESEARCH,Reverse-engineer the Gorath Strike Cruiser
 Z_TEXT_UNIT_MISSILE_BOAT_RESEARCH,Reverse-engineer the Missile Boat
 Z_TEXT_UNIT_MTC_RESEARCH,Reverse-engineer the Modular Taskforce Cruiser
 Z_TEXT_UNIT_SCIMITAR_RESEARCH,Reverse-engineer the Scimitar Assault Bomber
+TEXT_GROUND_SLAVE_MARKET,Slave Market
+TEXT_TOOLTIP_SLAVE_MARKET,This facility acts as a local hub for the Imperial slave trade. Humans and non-humans who dare to stand up to the Empire are put in chains and shipped here to await purchase by any number of unsavory clients, netting the Empire a tidy profit.
+TEXT_GROUND_SLAVE_BARRACKS,Slave Soldier Firebase
+TEXT_TOOLTIP_SLAVE_BARRACKS,A fortfied encampment where enslaved individuals that are deemed fit for combat are given rudimentary combat training, outfitted with captured and surplus gear, and assigned to supplement the local planetary garrison.
+TEXT_TOOLTIP_SLAVE_BARRACKS_SE1,Scavenger Squad: 2 / 6
+TEXT_TOOLTIP_SLAVE_BARRACKS_SE2,Heavy Scavenger Squad: 2 / 6
+TEXT_TOOLTIP_SLAVE_BARRACKS_SE3,Desert Sail 20: 4 / 8
+TEXT_TOOLTIP_SLAVE_BARRACKS_SE4,WLO-5 Speeder Tank: 2 / 4
+TEXT_TOOLTIP_SLAVE_BARRACKS_SE5,AT-AP Walker: 1 / 3
