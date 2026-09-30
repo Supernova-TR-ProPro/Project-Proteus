@@ -6,5 +6,6 @@ return {
 		}
 	},
 	Native = "REBEL",
+	FighterFlags = {"PROTEUS_OVERRIDE_RENDILI"},
 	Scripts = {"multilayer", "fighter-spawn", "single-unit-retreat"}
 }
