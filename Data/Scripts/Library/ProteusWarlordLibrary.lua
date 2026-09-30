@@ -116,7 +116,7 @@ return {
 			HeroList = {"Ramier_Team","Trier_Secutor","Lacmar_Team","Maston_Team","Tilas_Magore_Team"},
 			UnlockList = {
 				-- Space
-				"VT49_Decimator_Group", "Imperial_CR90", "Tartan_Patrol_Cruiser", "Marauder_Picket_Cruiser", "Victory_I_Frigate", "Galleon_Minelayer",
+				"VT49_Decimator_Group", "Imperial_CR90", "Tartan_Patrol_Cruiser", "Marauder_Picket_Cruiser", "Victory_I_Frigate", "Galleon_Minelayer", "Eidolon", 
 				"Rep_DHC", "Gladiator_I", "Acclamator_I_Supercruiser", "Neutron_Star_Tender", "Victory_I_Star_Destroyer", "Victory_II_Carrier", 
 				"Imperial_I_Star_Destroyer", "Tector_Star_Destroyer", "Secutor_Star_Destroyer", "Acclamator_Destroyer", 
 				"Praetor_I_Battlecruiser", "Bellator_Star_Dreadnought",
@@ -1136,7 +1136,7 @@ return {
 				-- Space 
 				"Beta_ETR_3_Group", "IPV1", "Lancer_Frigate", "Marauder_Missile_Cruiser", "Class_C_Frigate", "CC7700_E", 
 				"Proteus_Missile_DHC", "Gladiator_II", "Proficient_Tender", "Broadside_Cruiser", "Captor", "Procursator_Star_Destroyer",
-				"Imperial_I_Star_Destroyer_Assault", "Triumph_Star_Destroyer", "Invincible_Cruiser", "Maelstrom_Battlecruiser",  
+				"Imperial_I_Star_Destroyer_Assault", "Triumph_Star_Destroyer", "Maelstrom_Battlecruiser",  
 				"Bulwark_III", "Assault_Sphere", "KDY_Demonstration_Dreadnought", 
 				-- Ground
 				"PDF_Tactical_Unit_Company", "Imperial_Dwarf_Spider_Droid_Company", "Overracer_Speeder_Bike_Company",
